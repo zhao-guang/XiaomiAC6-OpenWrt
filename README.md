@@ -39,6 +39,8 @@ A template for building OpenWrt with GitHub Actions
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 - [sady2009-wq/ax6/repository-dispatch](https://github.com/sady2009-wq/ax6)
+- [Boos4721/openwrt/repository-dispatch](https://github.com/Boos4721/openwrt)
+
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
